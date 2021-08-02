@@ -1,7 +1,7 @@
 # @eadcodes/tiny
 
 [![npm (scoped)](https://img.shields.io/npm/v/@eadcodes/tiny.svg)](https://www.npmjs.com/package/@eadcodes/tiny)
-[![npm bundle size (minified)](https://img.shields.io/eadcodes/min/@eadcodes/tiny.svg)](https://www.npmjs.com/package/@eadcodes/tiny)
+[![npm bundle size (minified)](https://img.shields.io/eadcode/min/@eadcodes/tiny.svg)](https://www.npmjs.com/package/@eadcodes/tiny)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@eadcodes/tiny.svg)](https://www.npmjs.com/package/@eadcodes/tiny)
 ![npm bundle size (minified)](https://img.shields.io/endpoint?color=red&label=minified%20size&style=plastic)](https://www.npmjs.com/package/@eadcodes/tiny)
 
