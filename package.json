@@ -1,4 +1,14 @@
 {
   "name": "@eadcodes/tiny",
-  "version": "1.1.0"
+  "version": "1.1.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "eadcode/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "eadcodes"
+  ]
 }
